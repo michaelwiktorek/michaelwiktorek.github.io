@@ -51,6 +51,11 @@ h1 {
     background-position: center;
 }
 
+.books-body {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
 .info-box {
     max-width: 540px;
     margin-left: 16px;
